@@ -1,0 +1,3 @@
+tom:x:1000:1000:Vivek Gite:/home/vivek:/bin/bash
+johm:x:1001:1000:John:/home/jboy:/bin/bash
+dome:x:1002:1000:Jack:/home/dimsum:/bin/bash
